@@ -13,7 +13,7 @@ public class collider : MonoBehaviour
             if (other.CompareTag("Player"))
             {
                 // Cuando el jugador entra al área de detección, llama a la función de ataque
-                parentAI.SetTrigger ("Attack");
+                parentAI.SetTrigger ("Attack_Kappa");
             }
         }
 

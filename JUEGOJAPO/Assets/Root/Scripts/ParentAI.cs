@@ -16,12 +16,12 @@ public class detectorpadre : MonoBehaviour
         public void StartAttack()
         {
             // Asumiendo que en tu Animator tienes un Trigger "Attack"
-            animator.SetTrigger("Attack");
+            animator.SetTrigger("Attack_Kappa");
         }
 
         public void StopAttack()
         {
-            animator.SetTrigger("Idle");
+            animator.SetTrigger("Idle_Kappa");
         }
     }
 }
