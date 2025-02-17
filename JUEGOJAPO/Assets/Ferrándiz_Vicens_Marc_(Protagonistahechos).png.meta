@@ -1,0 +1,1382 @@
+fileFormatVersion: 2
+guid: af67d4d8f8d5586498e3247ee6da8e4b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_0"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1561
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5e6c725355f34293e496f887a16f8
+      internalID: -1658409370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_1"
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1561
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423bf8b6e8c10540979f23a8efd7e47
+      internalID: -637890873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_2"
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 1561
+        width: 81
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ef4703d3881d429813e97137a20fe
+      internalID: 930401551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_3"
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 1561
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a833e93bb3e2b544be17e5abd3f8e95
+      internalID: 708910113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_4"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1309
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df7380060157f10469578be0fb2d4957
+      internalID: 246566008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_5"
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1329
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8406793ad85db4598304c82f7f6f22
+      internalID: 1503272822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_6"
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1314
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a62f09d25777ee498a34f8db9bb98c9
+      internalID: 435342121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_7"
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 1309
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be24c1b0e341b0143be4463a2574fc52
+      internalID: 1845123844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_8"
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1309
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119fedaf5d15e846a2b8b5624916e42
+      internalID: -800861840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_9"
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 1324
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9eb2b6f08b13c24d9d8ffa7fd553743
+      internalID: 845286973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_11"
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 1314
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ad9722d18b33714bb142a15c8548450
+      internalID: -402461481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_14"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1057
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b227d41e3dd665f4ea13e28bc4739c44
+      internalID: 1957494070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_16"
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1081
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1e5d72eae389b43bf37f3fcf9447cc
+      internalID: -1750543993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_17"
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1081
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93a1b4f519e3f34e9b1efd7f1a2d3d5
+      internalID: -1754804721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_18"
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1089
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc2c786e5bf6ed4eb4020ed86665490
+      internalID: 841736498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_20"
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 1057
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46781baeff24d8f48aa99ad4fba50fee
+      internalID: -1457591260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_21"
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1056
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b64531431159964d9952c98eba7bd2c
+      internalID: 1828042015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_22"
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1102
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0800e74039632249a1a98a9defe66f9
+      internalID: 1780624017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_23"
+      rect:
+        serializedVersion: 2
+        x: 2028
+        y: 1057
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c4f8e5188b7c545a5375d564073502
+      internalID: 151691182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_24"
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1084
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0232f28feb4f86f4ba09f3052d44fb03
+      internalID: 777523995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_25"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 805
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb60e1dd6002c1b459974309ac8ccaab
+      internalID: 1882706299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_26"
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 805
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b4baac868a1124ebdfb73c93c56a8d
+      internalID: 578927784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_28"
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 804
+        width: 144
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bea385baa245a34aa4085e141facf5d
+      internalID: -1727388394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_29"
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 805
+        width: 117
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0bcd2802357194fa36c28565c84584
+      internalID: -652903343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_30"
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 805
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bbee077ec240c44d92c46079f320f0f
+      internalID: -1903872939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_31"
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 553
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73af6f1f3b3af2f46af2e133aae48541
+      internalID: 926667148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_32"
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 573
+        width: 101
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d98668794a4dc4cba368bff65825cb
+      internalID: 1176724840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_33"
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 558
+        width: 86
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b988a2f9d88a045408785688dcb54cbb
+      internalID: 2070368495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_34"
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 553
+        width: 86
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fcc8ee00d6e454c9595212e473a8ce
+      internalID: 1209622923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_35"
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 553
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42b0bd919fa92429f879e5728f7935
+      internalID: 1416778587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_36"
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 568
+        width: 93
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7182a3973cf8d44ea8ec46e69fc4c93
+      internalID: 1193261749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_38"
+      rect:
+        serializedVersion: 2
+        x: 2046
+        y: 558
+        width: 81
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0c1c7c47f99a643b4891cc52e8bda1
+      internalID: -1429807245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_39"
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 553
+        width: 75
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4120709bf3c27340b872358bc73f94a
+      internalID: 545819983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_42"
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 397
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a73ea4e317d81a4399b0fca281bfbc9
+      internalID: -798704483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_43"
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 406
+        width: 75
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6c537c154230845ade1e9c6bfd6406
+      internalID: 660297207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_44"
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 409
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a484070d95cbfa4e8beef474f101968
+      internalID: -1478801697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_45"
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 291
+        width: 207
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18edf07115f5da44eb8221356ffa1487
+      internalID: 2123918620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_46"
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 301
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293531c76103fea4fbebb72cde25664d
+      internalID: -1701890758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_47"
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 300
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03af1ebf6c6c4d4b9986e5920c984bd
+      internalID: -1660944408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_48"
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 291
+        width: 161
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb9642a2db6a674486770e264dfbe57
+      internalID: -2035122444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_49"
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 297
+        width: 98
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd17543d1f73ba64286e1af13e6d064c
+      internalID: 1805022401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_52"
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 301
+        width: 99
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046535682a6d5714fa0d4a610666d2e5
+      internalID: -702895823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_59"
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 49
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7b3c04da30ec14a98c4c1d63088777
+      internalID: -2034650991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_61"
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 49
+        width: 69
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b5cc85d350aac47aa4cfca1ab05ab4
+      internalID: 284486878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_62"
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 48
+        width: 81
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21738457a061c847aa24eed81f8d418
+      internalID: 1101481398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_63"
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 49
+        width: 81
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53075b355158010459e5d36703661e28
+      internalID: 1072735997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_64"
+      rect:
+        serializedVersion: 2
+        x: 1398
+        y: 48
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d004905e0b6da41a92b7759ecde130
+      internalID: -2105306729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_65"
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 48
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480eb157983d8714dab51daef6ee4c6d
+      internalID: -212222773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_66"
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 48
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f040042dec8ae8046bc87730081aa8f3
+      internalID: 1821808787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_67"
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 48
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff3869f2dff2944194bc121f929b342
+      internalID: -1682286169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_68"
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 48
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f26ea122e08064aa3edbcbdc6eb481
+      internalID: -331976714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_69"
+      rect:
+        serializedVersion: 2
+        x: 3001
+        y: 48
+        width: 101
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6b4467575b31847913ed0ab43210b9
+      internalID: 466580543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_70"
+      rect:
+        serializedVersion: 2
+        x: 3319
+        y: 48
+        width: 107
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9f58f86af51774d8659b6568027de9
+      internalID: -1097833715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_71"
+      rect:
+        serializedVersion: 2
+        x: 3637
+        y: 48
+        width: 107
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f44dffe6312b44f982def52d2d7222
+      internalID: 1518976316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_72"
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 48
+        width: 107
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0eee8c0c566bdb408bfefefa73e2dfb
+      internalID: 642958452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_0": -1658409370
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_1": -637890873
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_10": -161737210
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_11": -402461481
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_12": 1653683451
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_13": -1477738786
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_14": 1957494070
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_15": -385187456
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_16": -1750543993
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_17": -1754804721
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_18": 841736498
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_19": -913685029
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_2": 930401551
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_20": -1457591260
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_21": 1828042015
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_22": 1780624017
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_23": 151691182
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_24": 777523995
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_25": 1882706299
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_26": 578927784
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_27": 943608378
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_28": -1727388394
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_29": -652903343
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_3": 708910113
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_30": -1903872939
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_31": 926667148
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_32": 1176724840
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_33": 2070368495
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_34": 1209622923
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_35": 1416778587
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_36": 1193261749
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_37": 938586751
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_38": -1429807245
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_39": 545819983
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_4": 246566008
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_40": 357410930
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_41": -1342395057
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_42": -798704483
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_43": 660297207
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_44": -1478801697
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_45": 2123918620
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_46": -1701890758
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_47": -1660944408
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_48": -2035122444
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_49": 1805022401
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_5": 1503272822
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_50": -424257426
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_51": 630573503
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_52": -702895823
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_53": 1811677697
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_54": 1932270120
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_55": 1705534151
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_56": 1947850575
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_57": 1271046549
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_58": 106086459
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_59": -2034650991
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_6": 435342121
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_60": -120558418
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_61": 284486878
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_62": 1101481398
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_63": 1072735997
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_64": -2105306729
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_65": -212222773
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_66": 1821808787
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_67": -1682286169
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_68": -331976714
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_69": 466580543
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_7": 1845123844
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_70": -1097833715
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_71": 1518976316
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_72": 642958452
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_73": 1971000232
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_8": -800861840
+      "Ferr\xE1ndiz_Vicens_Marc_(Protagonistahechos)_9": 845286973
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
